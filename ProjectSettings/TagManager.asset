@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - HigherUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2404553855
+    locked: 0
+  - name: BG Elements
+    uniqueID: 834833835
+    locked: 0
+  - name: Level Elements
+    uniqueID: 510305687
+    locked: 0
+  - name: Interactable Elements
+    uniqueID: 3267661931
+    locked: 0
+  - name: MarioLow
+    uniqueID: 932578407
+    locked: 0
+  - name: MarioMid
+    uniqueID: 3783882443
+    locked: 0
+  - name: MarioHigh
+    uniqueID: 934965827
+    locked: 0
+  - name: MarioHighest
+    uniqueID: 1292038763
+    locked: 0
