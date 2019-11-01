@@ -4,7 +4,7 @@
 public class MarioCharacter : MonoBehaviour
 {
 
-    // Unfortunately named, fortunately glitched script
+    // Unfortunately named, fortunately glitched script.
     [SerializeField, Tooltip("Max speed, in units per second, that the character moves.")]
     float speed = 9;
 
