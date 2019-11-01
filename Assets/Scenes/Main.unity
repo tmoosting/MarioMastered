@@ -4003,7 +4003,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &888433213
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6685,7 +6685,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1360578242
 Transform:
   m_ObjectHideFlags: 0
@@ -7466,8 +7466,8 @@ MonoBehaviour:
   powerupBox3: {fileID: 21300000, guid: 4be8303583b14c449a1b84b00c022b08, type: 3}
   powerupFrame: {fileID: 21300000, guid: 70d5395b1f5c6da4898ae2a5d1afbc07, type: 3}
   powerupFrame2: {fileID: 21300000, guid: 64a8065dfec83084aa3962b23a6dd71d, type: 3}
-  powerupFrame3: {fileID: 21300000, guid: 70d5395b1f5c6da4898ae2a5d1afbc07, type: 3}
-  powerupMario: {fileID: 21300000, guid: 4be8303583b14c449a1b84b00c022b08, type: 3}
+  powerupFrame3: {fileID: 21300000, guid: 4be8303583b14c449a1b84b00c022b08, type: 3}
+  powerupMario: {fileID: 21300000, guid: 70d5395b1f5c6da4898ae2a5d1afbc07, type: 3}
   powerupMario2: {fileID: 0}
   powerupMario3: {fileID: 0}
   dressHead1: {fileID: 21300000, guid: 3c1a44cce2282e047bc741f3b83b1475, type: 3}

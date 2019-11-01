@@ -93,7 +93,7 @@ public class MarioAI : MonoBehaviour
         }
 
         ResetFrameCount();
-        yield return new WaitUntil(() => frame >= 100);
+        yield return new WaitUntil(() => frame >= 140);
 
         TextController.Instance.ClearText();
 
